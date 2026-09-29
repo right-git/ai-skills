@@ -1,3 +1,4 @@
+```
 Directory structure:
 └── ai-skills/
     ├── .gitignore
@@ -12,3 +13,4 @@ Directory structure:
         ├── remove-image-background/ [not scanned: max-depth=2]
         ├── social-publish/ [not scanned: max-depth=2]
         └── tmdb/ [not scanned: max-depth=2]
+```
